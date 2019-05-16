@@ -9,5 +9,8 @@ Notebooks:
   * Model: Kmeans clustering & Logistic Regression
   * Task: Regression
 * MNIST (Logistic Regression + Sequential + CNN).ipynb
-  * Model: Logistic Regression + Sequential + CNN
+  * Models: 
+    * Logistic Regression (multi class) 
+    * Keras Sequential Model (feed forward)
+    * Keras Convoloutional Neurak Network
   * Task: Image Classification 
