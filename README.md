@@ -4,5 +4,10 @@ In the series of Python notebooks I am going to practice solving questions with 
 Notebooks:
 * Weather in Szeged 2006-2016-Kaggle.ipynb 
   * Model: Linear Regression Analysis
+  * Task: Regression
 * WineData (Kmeans+MNLogit).ipynb
   * Model: Kmeans clustering & Logistic Regression
+  * Task: Regression
+* MNIST (Logistic Regression + Sequential + CNN).ipynb
+  * Model: Logistic Regression + Sequential + CNN
+  * Task: Image Classification 
