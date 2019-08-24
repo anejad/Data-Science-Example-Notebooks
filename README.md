@@ -16,3 +16,7 @@ Notebooks:
     * Logistic Regression (multi class) 
     * Keras Sequential Model (feed forward)
     * Keras Convoloutional Neurak Network
+* Iris Data Classification (Classifying_Iris_data_Using_Tensorflow.ipynb):
+  * Task: Classifcation
+  * Model:
+    * Tensorflow Feed Forward Neural Network Model
